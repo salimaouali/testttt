@@ -1,0 +1,25 @@
+{
+  "name": "yakhouya",
+  "version": "1.0.0",
+  "description": "Projet Yakhouya Hôtel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YAKHOYA-Hotel/YAKHOYA-Back.git"
+  },
+  "author": "Mohand Ameziane ZAIDI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YAKHOYA-Hotel/YAKHOYA-Back/issues"
+  },
+  "homepage": "https://github.com/YAKHOYA-Hotel/YAKHOYA-Back#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jwt-simple": "^0.5.6",
+    "mongoose": "^5.7.1"
+  }
+}
